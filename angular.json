@@ -15,6 +15,7 @@
         "@schematics/angular:pipe": {
           "standalone": false
         }
+
       },
       "root": "",
       "sourceRoot": "src",
@@ -37,6 +38,7 @@
               }
             ],
             "styles": [
+             
               "src/styles.css"
             ],
             "scripts": [],
@@ -107,5 +109,9 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "4e2932f0-3877-4206-812b-0cd102982bf5"
   }
-}
+  }
+
